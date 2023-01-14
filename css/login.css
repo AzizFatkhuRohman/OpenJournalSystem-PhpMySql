@@ -1,0 +1,12 @@
+.container{
+    display: flex;
+    margin-top: 2rem;
+    background-color: rgb(196, 238, 224);
+    border-radius: 2rem;
+    justify-content: center;
+    text-align: center;
+}
+.form{
+    margin: 1rem;
+    
+}
